@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 # BotFather'dan olingan tokenni shu yerga qo'ying
-BOT_TOKEN = "SIZNING_BOT_TOKEN_INGIZ"
+BOT_TOKEN = "8961204603:AAETpZdTf4B6OHQKIHVYGChuj5LMqXfivrE"
 
 # Admin(lar) telegram ID lari (Stars kursini o'zgartira oladiganlar)
 # O'zingizning Telegram ID'ingizni bilish uchun @userinfobot ga yozing
-ADMIN_IDS = [123456789]
+ADMIN_IDS = [8856763799]
 
 # Boshlang'ich kurslar (1 birlik = necha so'm)
 # Bot ishga tushganda shu qiymatlar bilan boshlaydi,
